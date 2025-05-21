@@ -14,7 +14,5 @@
 * **Frontend:** Laravel
 
 
-
-
-| ![Homepage](./path/to/Screenshot_2025-05-21_at_11.43.29.png) | ![Chest Exercise](./path/to/Screenshot_2025-05-21_at_11.43.58.png) |
-
+<img width="1162" alt="Screenshot 2025-05-21 at 11 43 29" src="https://github.com/user-attachments/assets/dacf80dc-c1c1-4ce0-a184-3e838af159a9" />
+<img width="1164" alt="Screenshot 2025-05-21 at 11 43 58" src="https://github.com/user-attachments/assets/66d86a1b-7ccc-49d9-91ae-258fb03ac981" />
