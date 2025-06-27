@@ -11,7 +11,7 @@
 
 ##  Tech Stack
 
-* **Frontend:** Laravel
+Laravel
 
 
 <img width="1162" alt="Screenshot 2025-05-21 at 11 43 29" src="https://github.com/user-attachments/assets/dacf80dc-c1c1-4ce0-a184-3e838af159a9" />
